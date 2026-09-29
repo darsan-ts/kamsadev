@@ -1,0 +1,21 @@
+UI ELEMENTS{
+    CTkFrame
+    CTKButton
+    CTKLabel
+    CTkScrollableFrame
+    CTkEntry
+    CTkTextbox
+    CTkCheckBox
+    CTkRadioButton
+    CTkSwitch
+    CTkComboBox
+    CTkOptionMenu
+    CTkSlider
+    CTkProgressBar
+    
+    CTkToplevel
+    CTkInputDialog
+    CTK
+    CTkFont
+    CTkImage
+}

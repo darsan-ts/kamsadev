@@ -1,0 +1,26 @@
+[project]
+name = "kamsadev"
+version = "0.3.0"
+description = "A fast, lightweight wrapper around CustomTkinter for rapid Python GUI development"
+readme = "README.md"
+requires-python = ">=3.8"  
+license = { text = "MIT" }
+authors = [
+    { name = "darsan-ts", email = "darsan.s2008@gmail.com" }
+]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Software Development :: User Interfaces",
+]
+dependencies = [
+    "customtkinter>=6.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
